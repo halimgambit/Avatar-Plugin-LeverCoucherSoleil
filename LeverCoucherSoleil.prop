@@ -1,0 +1,13 @@
+{
+	"modules": { 
+		"LeverCoucherSoleil": {
+			"version": "1.0",
+			"name": "levercouchersoleil",
+			"rules": {
+				"leverSoleil": ["the sunrise","sunrise","sunlight"],
+				"coucherSoleil": ["the sunset","sunset"]
+			}
+		}
+	}
+}
+			
